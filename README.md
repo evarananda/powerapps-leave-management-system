@@ -20,5 +20,6 @@ The application allows employees to submit leave requests, managers to approve o
 
 ## Screenshots
 ### Dashboard
+![Dashboard](screenshots/dashboard-overview.jpg)
 ### Leave Request Form
 ### Approval Workflow

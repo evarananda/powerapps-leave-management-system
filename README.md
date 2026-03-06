@@ -22,4 +22,7 @@ The application allows employees to submit leave requests, managers to approve o
 ### Dashboard
 ![Dashboard](screenshots/dashboard-overview.jpg)
 ### Leave Request Form
+![Form](screenshots/date-validation.jpg)
+### Team Calendar
+![Calendar](screenshots/team-calendar.jpg)
 ### Approval Workflow
